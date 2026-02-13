@@ -65,6 +65,6 @@
 
 ---
 
-[Próxima página](tipos_de_comandos.md)
+[Próxima página](tipos_de_comandos.md) | voltar para [Readme](../README.md)
 
 
