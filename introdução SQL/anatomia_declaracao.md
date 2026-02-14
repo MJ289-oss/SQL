@@ -31,6 +31,8 @@ FROM
 - `DISTINCT` – Remove duplicatas.  
 -  `TOP` / `LIMIT` – Especifica número de registros retornados. 
 
+> Nota: `TOP` é usado no **SQL Server** e `LIMIT` no **MySQL/PostgreSQL**.
+
 
 ## Aliases (AS)
 

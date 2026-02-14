@@ -36,9 +36,9 @@
 
 - Bancos de dados relacionais seguem uma organização hierárquica:
   - **Servidor**: O host principal contendo um ou mais bancos de dados.
-  - **Banco de Dados**: Contêiner de alto nível para dados, como “Vendas” ou “RH”.
-  - **Esquema**: Agrupamentos lógicos dentro de um banco de dados, como “Pedidos” ou “Clientes”.
-  - **Tabela**: Onde os dados são fisicamente armazenados em linhas e colunas.
+    - **Banco de Dados**: Contêiner de alto nível para dados, como “Vendas” ou “RH”.
+      - **Esquema**: Agrupamentos lógicos dentro de um banco de dados, como “Pedidos” ou “Clientes”.
+        - **Tabela**: Onde os dados são fisicamente armazenados em linhas e colunas.
 
 
 ## Componentes de uma Tabela

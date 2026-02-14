@@ -40,7 +40,7 @@ SET column1 = value1, column2 = value2
 WHERE <condition>;
 ``` 
 
--  Regra: Sempre use WHERE para evitar atualizações em massa não intencionais.
+> Regra: Sempre use WHERE para evitar atualizações em massa não intencionais.
 
 
 ## Removendo Dados (DELETE)
@@ -52,8 +52,10 @@ DELETE FROM table_name
 WHERE <condition>;
 ```
 
+> Cuidado: Assim como no UPDATE, o uso do DELETE sem a cláusula WHERE apagará todos os registros da tabela!
 
-## Tabela Resumo de DDL
+
+## Tabela Resumo de DML
 
 | Comando | Ação que tomamos | Efeito nos Dados |
 |:--------|:-----------------|:-----------------|
