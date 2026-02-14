@@ -10,7 +10,7 @@
 - Falar com Dados: Permite comunicar diretamente com sistemas de dados.
 - Alta Demanda: Há uma alta demanda por habilidades em SQL em várias funções técnicas.
 - Caminhos de Carreira: Essencial para Desenvolvedores de Software, Analistas de Dados, Cientistas de Dados e Engenheiros de Dados.
-- Padrão da Indústria: É uma linguagem padrão usada com ferramentas como Power BI, Tableau, Kafka, Spark e Synapse. 
+- Padrão da Indústria: É uma linguagem padrão usada com ferramentas como **Power BI, Tableau, Kafka, Spark e Synapse.**
 
 
 ## Sistema de Gerenciamento de Banco de Dados (DBMS)
